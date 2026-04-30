@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgkk5solg846d"
-path="res://.godot/imported/AttackSprite01.png-17608ce0538045080495dd83b5a4c87f.ctex"
+uid="uid://7gky33n7dfwj"
+path="res://.godot/imported/Shadow.png-30e68cc453bd3dfb3929821f6e4fa4be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/AttackSprite01.png"
-dest_files=["res://.godot/imported/AttackSprite01.png-17608ce0538045080495dd83b5a4c87f.ctex"]
+source_file="res://Player/Sprites/Shadow.png"
+dest_files=["res://.godot/imported/Shadow.png-30e68cc453bd3dfb3929821f6e4fa4be.ctex"]
 
 [params]
 

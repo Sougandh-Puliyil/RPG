@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://b7gsl2bd1hb1r"]
 
-[ext_resource type="PackedScene" uid="uid://t1hxff50qtww" path="res://Scenes/player.tscn" id="1_uof5o"]
+[ext_resource type="PackedScene" uid="uid://t1hxff50qtww" path="res://Player/player.tscn" id="1_uof5o"]
 [ext_resource type="PackedScene" uid="uid://bjobb1ilw8ujh" path="res://Tile Maps/grass-01.tscn" id="2_6xle2"]
 
 [node name="Playground" type="Node2D" unique_id=1807512868]
